@@ -293,7 +293,6 @@
             this.Name = "Form1";
             this.Text = "Tic-Tac-Toe Game";
             this.Load += new System.EventHandler(this.Form1_Load);
-            this.Click += new System.EventHandler(this.PB_Click);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint_1);
             ((System.ComponentModel.ISupportInitialize)(this.PB7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.PB8)).EndInit();
